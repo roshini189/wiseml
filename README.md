@@ -1,1 +1,2 @@
-# wiseml
+# ChatBot
+Wise Machine Learning Project
